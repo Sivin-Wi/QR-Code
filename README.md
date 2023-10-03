@@ -22,8 +22,8 @@
 
 ### Links 🔗
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [page](https://www.frontendmentor.io/solutions/page-using-flexbox-wC6K7AO16Q)
+- Live Site URL: [page](https://sivin-wi.github.io/QR-Code/)
 
 ## My process
 
